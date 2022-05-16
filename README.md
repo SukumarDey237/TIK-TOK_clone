@@ -1,2 +1,3 @@
 # TIK-TOK_clone
-Created with CodeSandbox
+
+TIK TOK feed clone built with the reactJS and styled with css
