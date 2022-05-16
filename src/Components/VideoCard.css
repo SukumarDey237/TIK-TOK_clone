@@ -1,0 +1,21 @@
+.video-card {
+  position: relative;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+}
+
+video {
+  height: 100%;
+  width: 100%;
+  object-fit: fill;
+  border-radius: 3vh;
+}
+
+.loading {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  aspect-ratio: 9/16;
+  background-color: #e1e1e1;
+  border-radius: 3vh;
+}
